@@ -1,5 +1,5 @@
 # GitHub Actions Exercises
-Have you ever wanted to use GitHub Actions, but aren't really sure where to start? Then this repo is for you! In the [Outline](#outline) below, you will find a list of exercises to perform that will increase your knowledge of Actions with practical application and real-world examples. Most exercises can be performed alone, but a few build on each-other and say so in the prerequisites for the exercise. You will also learn about GitHub features that tie-in to Actions and see how to use them first-hand.
+Have you ever wanted to use GitHub Actions, but ^^ aren't really sure where to start? Then this repo is for you! In the [Outline](#outline) below, you will find a list of exercises to perform that will increase your knowledge of Actions with practical application and real-world examples. Most exercises can be performed alone, but a few build on each-other and say so in the prerequisites for the exercise. You will also learn about GitHub features that tie-in to Actions and see how to use them first-hand.
 
 Don't see an exercise you were hoping to find? Open an `issue` on this repo to suggest it.
 
